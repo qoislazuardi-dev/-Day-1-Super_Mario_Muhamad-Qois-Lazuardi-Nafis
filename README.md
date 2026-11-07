@@ -4,7 +4,7 @@ Workshop Day 1
 repository adalah tempat penyimpanan berbasis Git dan GitHub yang digunakan untuk mendokumentasikan seluruh proses pembelajaran, source code,dan hasil pengerjaan proyek dari rangkaian kegiatan workshop.
 digunakan untuk melakukan version control (pengontrolan versi kode), melacak setiap perubahan yang terjadi pada file proyek dan penyimpanan kode secara online di GitHub.
 
-Rangkuman
+Rangkuman 
 Prompt adalah instruksi atau masukan yang Anda berikan kepada model untuk mendapatkan hasil tertentu.Bentuknya bisa beragam, mulai dari pertanyaan sederhana, kata kunci, hingga instruksi yang rumit, atau potongan kode.Git (sebagai Distributed Version Control System untuk melacak perubahan secara lokal) dan GitHub (platform berbasis web untuk menyimpan repository secara online dan kolaborasi).Working directory/tree adalah salinan dari satu versi proyek yang sedang kamu kerjakan.Staging area adalah file yang umumnya berada di dalam direktori Git dan berfungsi untuk menyimpan informasi mengenai perubahan apa saja yang akan dimasukkan ke dalam commit berikutnya.Git directory adalah tempat Git menyimpan metadata dan object database dari sebuah proyek.
 
 Poin-poin
